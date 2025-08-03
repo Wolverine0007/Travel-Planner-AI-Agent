@@ -18,9 +18,6 @@ An intelligent travel assistant built using **IBM Watsonx.ai**, **IBM Granite**,
 ![Architecture Diagram](architecture-diagram.png)
 
 
-## 📁 Files
-- `TravelPlannerAgent.pptx` – Project presentation
-- `README.md` – Project overview
 
 ## 🙋‍♂️ End Users
 - Students, solo travelers, families, working professionals
