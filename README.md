@@ -14,6 +14,9 @@ An intelligent travel assistant built using **IBM Watsonx.ai**, **IBM Granite**,
 - IBM Cloud AgentLab
 - Simulated search from Google, DuckDuckGo, RedBus, Goibibo, MakeMyTrip
 
+## 📊 Architecture
+![Architecture Diagram](architecture-diagram.png)
+
 
 ## 📁 Files
 - `TravelPlannerAgent.pptx` – Project presentation
